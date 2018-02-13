@@ -1,0 +1,26 @@
+header {
+  text-align: center;
+background: url("https://cdn.techinasia.com/wp-content/uploads/2016/03/Israel-flag-sunrise.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center center;
+height: 327px;
+}
+h1 {
+  font-size: 55px;
+  color: #1f7a77;
+  padding: 0px 0px 0px 0px;
+  font-family: 'Amatic SC', cursive;
+  text-shadow: 2px 2px #000000
+}
+h2 {
+  font-family: 'Amatic SC', cursive;
+}
+h3 {
+  font-family: 'Amatic SC', cursive;
+}
+body {
+background-color: #E0FFFF;
+font-family: 'Catamaran', sans-serif;
+font-weight: bold;
+}
